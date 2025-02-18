@@ -11,7 +11,7 @@ CSS3
 📸 Capturas de Tela (Opcional)
 
 Adicione algumas imagens ou GIFs do funcionamento do projeto.
-![width above 1000px](img/fullscreen.png.png)
+![width above 1000px](img/fullscreen.png)
 ![width below 1000px](img/resized.png)
 
 🏗️ Como Usar
